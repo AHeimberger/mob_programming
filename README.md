@@ -26,6 +26,7 @@
 
 `Ctrl+Shift+P`
 
+- Extensions: Show Recommended Extensions
 - Remote-Containers: Close Connection
 - Remote-Containers: Rebuild Containers
 - Remote-Containers: Rebuild and Reopen in Container
