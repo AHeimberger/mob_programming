@@ -8,6 +8,8 @@
 - [VS Code Liveshare](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/install-live-share-visual-studio-code)
 - [Docker Remote Try Repositories](https://github.com/search?q=org%3Amicrosoft+vscode-remote-try-&type=Repositories)
 - Install VS-Code, Install Docker, [Docker Remote Try Plugin](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-cpp)
+- [Remote Mob Programming](https://www.remotemobprogramming.org/)
+
 
 ----
 
